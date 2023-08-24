@@ -34,7 +34,7 @@ THEN the saved events persist
 
 The following image shows the web application's appearance and functionality:
 
-![Code Quiz Challenge](./Assets/Images/Work-Day-Scheduler.png "Screenshot")
+![Code Quiz Challenge](./assets/Images/Work-Day-Scheduler.png "Screenshot")
 
 Please see the live webpage link for you to checkout. [Link](https://mxrtinee.github.io/Work-Day-Scheduler/)
 
